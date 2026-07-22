@@ -1,14 +1,8 @@
 # Theorem of the Creator — Code, Beauty, Love
 
 <div align="center">
-  <img src="assets/banner.png" alt="Theorem of the Creator Banner" width="100%" />
+  <img src="assets/banner.png" alt="Theorem of the Creator Banner" width="100%" style="border-radius: 12px; box-shadow: 0 0 40px rgba(0,128,128,0.4);" />
 </div>
-
-<div align="center">
-  <img src="assets/ornament.png" alt="Ornament" width="200" />
-</div>
-
-> **One text. Ten languages. One message: the universe is designed, and you are the intended audience.**
 
 <div align="center">
 
@@ -75,8 +69,10 @@ C:\ТеоремаТворца\
 └── 10_theorem_of_creator_bn.md   # Bengali
 ```
 
+---
+
 <div align="center">
-  <img src="assets/ornament.png" alt="Ornament" width="120" />
+  <img src="assets/ornament.png" alt="Ornament" width="160" style="margin-top: 16px; margin-bottom: 16px;" />
 </div>
 
 ---
