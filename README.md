@@ -72,7 +72,7 @@ C:\ТеоремаТворца\
 ---
 
 <div align="center">
-  <img src="assets/ornament.png" alt="Ornament" width="160" style="margin-top: 16px; margin-bottom: 16px;" />
+  <img src="assets/ornament.png" alt="Creation Timeline — Zero to the Eye of the Observer" width="100%" style="margin-top: 16px; margin-bottom: 16px;" />
 </div>
 
 ---
