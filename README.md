@@ -32,6 +32,8 @@ Combines:
 - **Astronomy** — solar system geometry, total solar eclipse, axial tilt
 - **Mathematics** — golden ratio, snowflake symmetry, Euler's formula
 - **Experience** — a step-by-step guide to seeing God through beauty
+- **Cannabis sativa** — tangible proof: full-utility plant engineered for Homo sapiens, CB1/CB2 native driver, zero entropy waste
+- **Matrix** — world-as-projection report: energy as ΔInformation, God as source wave equation,可控 случайность
 
 ## Core thesis
 
