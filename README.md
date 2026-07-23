@@ -33,7 +33,7 @@ Combines:
 - **Mathematics** — golden ratio, snowflake symmetry, Euler's formula
 - **Experience** — a step-by-step guide to seeing God through beauty
 - **Cannabis sativa** — tangible proof: full-utility plant engineered for Homo sapiens, CB1/CB2 native driver, zero entropy waste
-- **Matrix** — world-as-projection report: energy as ΔInformation, God as source wave equation,可控 случайность
+- **Matrix** — world-as-projection report: energy as ΔInformation, God as source wave equation, controllable randomness
 
 ## Core thesis
 
@@ -58,18 +58,50 @@ C:\ТеоремаТворца\
 ├── assets/
 │   ├── banner.png
 │   └── ornament.png
-├── 00_theorem_of_creator_ru.md   # Russian
-├── 01_theorem_of_creator_en.md   # English
-├── 02_theorem_of_creator_es.md   # Spanish
-├── 03_theorem_of_creator_fr.md   # French
-├── 04_theorem_of_creator_it.md   # Italian
-├── 05_theorem_of_creator_ur.md   # Urdu
-├── 06_theorem_of_creator_ar.md   # Arabic
-├── 07_theorem_of_creator_zh.md   # Chinese
-├── 08_theorem_of_creator_hi.md   # Hindi
-├── 09_theorem_of_creator_pt.md   # Portuguese
-└── 10_theorem_of_creator_bn.md   # Bengali
+├── CORE_STORY_ar.md   # Arabic
+├── CORE_STORY_bn.md   # Bengali
+├── CORE_STORY_en.md   # English
+├── CORE_STORY_es.md   # Spanish
+├── CORE_STORY_fr.md   # French
+├── CORE_STORY_hi.md   # Hindi
+├── CORE_STORY_it.md   # Italian
+├── CORE_STORY_pt.md   # Portuguese
+├── CORE_STORY_ru.md   # Russian
+├── CORE_STORY_ur.md   # Urdu
+├── CORE_STORY_zh.md   # Chinese
+├── 00_theorem_of_creator_ru.md   # Russian (full theorem)
+├── 01_theorem_of_creator_en.md   # English (full theorem)
+├── 02_theorem_of_creator_es.md   # Spanish (full theorem)
+├── 03_theorem_of_creator_fr.md   # French (full theorem)
+├── 04_theorem_of_creator_it.md   # Italian (full theorem)
+├── 05_theorem_of_creator_ur.md   # Urdu (full theorem)
+├── 06_theorem_of_creator_ar.md   # Arabic (full theorem)
+├── 07_theorem_of_creator_zh.md   # Chinese (full theorem)
+├── 08_theorem_of_creator_hi.md   # Hindi (full theorem)
+├── 09_theorem_of_creator_pt.md   # Portuguese (full theorem)
+├── 10_theorem_of_creator_bn.md   # Bengali (full theorem)
+├── CANNABIS_SATIVA.md            # Deep-dive: Cannabis as tangible proof
+├── INTEGRATION_PLAN.md           # Multi-language integration roadmap
+├── MATRIX.MD                     # World-as-projection report
+└── SCENARIO.md                   # Russian scenario: from Nothing to the Eye
 ```
+
+### Core Story (Unified Narrative — 10 languages)
+
+| Language | File | Status |
+|----------|------|--------|
+| 🇷🇺 Russian | [CORE_STORY_ru.md](CORE_STORY_ru.md) | ✅ Complete + Action 8.5 |
+| 🇬🇧 English | [CORE_STORY_en.md](CORE_STORY_en.md) | ✅ Complete + Action 8.5 |
+| 🇪🇸 Spanish | [CORE_STORY_es.md](CORE_STORY_es.md) | ✅ Complete + Action 8.5 |
+| 🇫🇷 French | [CORE_STORY_fr.md](CORE_STORY_fr.md) | ✅ Complete + Action 8.5 |
+| 🇮🇹 Italian | [CORE_STORY_it.md](CORE_STORY_it.md) | ✅ Complete + Action 8.5 |
+| 🇵🇰 Urdu | [CORE_STORY_ur.md](CORE_STORY_ur.md) | ✅ Complete + Action 8.5 |
+| 🇸🇦 Arabic | [CORE_STORY_ar.md](CORE_STORY_ar.md) | ✅ Complete + Action 8.5 |
+| 🇨🇳 Chinese | [CORE_STORY_zh.md](CORE_STORY_zh.md) | ✅ Complete + Action 8.5 |
+| 🇮🇳 Hindi | [CORE_STORY_hi.md](CORE_STORY_hi.md) | ✅ Complete + Action 8.5 |
+| 🇧🇩 Bengali | [CORE_STORY_bn.md](CORE_STORY_bn.md) | ✅ Complete + Action 8.5 |
+
+All 10 languages now include **Action 8.5: Cannabis Sativa — Tangible Proof** as a dedicated section.
 
 ---
 
