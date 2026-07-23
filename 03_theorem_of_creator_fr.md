@@ -29,7 +29,7 @@ Fatigué, Dieu déclara le **Jour de Repos** — le moment de redémarrage, d'é
 
 **Et dans la finale, Dieu dit : "Que ce soit Épique !"**
 
-L'univers brilla comme une symphonie de chiffres, de lumière et de vie, où chaque particule portait l'empreint du plan divin génial, tracé sur l'Éther et projeté par la Lumière.
+L'univers brilla comme une symphonie de chiffres, de lumière et de vie, où chaque particule portait l'empreinte du plan divin génial, tracé sur l'Éther et projeté par la Lumière.
 
 ---
 
@@ -176,7 +176,36 @@ Tous les cas enregistrés d'apparition de CSI (livres, processeurs, compilateurs
 
 ---
 
-## Chapitre 7. Guide : "Comment Voir Dieu pour les Nuls"
+## Chapitre 7. Cannabis sativa : Preuve Tangible — Action 8.5
+
+> **Ceci est une action séparée car le Cannabis n'est pas seulement une énigme — c'est une clé physique.**
+
+Cannabis sativa est la seule plante avec un **coefficient d'utilité ≈ 1.0**.
+Chaque partie semble conçue pour les humains :
+
+| Partie | Fonction | Interface Humaine |
+|--------|----------|-------------------|
+| Graine | Protéine complète, oméga-3, minéraux | Nutrition |
+| Fibre | Fibre naturelle la plus forte, résistante aux UV | Textiles, corde, construction |
+| Fleur | Cannabinoïdes (THC, CBD, CBG...) | Récepteurs CB1/CB2 → douleur, anxiété, inflammation, sommeil |
+| Racines | Phytoremédiation — extrait les métaux lourds | Nettoyage du sol |
+| Feuilles | Terpènes, composés protecteurs | Aromathérapie, répulsif insectes |
+
+**Sans déchet. Sans toxicité (usage sage).**
+
+Les **récepteurs CB1/CB2** dans ton cerveau — une **interface intégrée** — sont faits *uniquement* pour les phytocannabinoïdes de cette plante.
+La probabilité que l'évolution *aléatoirement* créa une plante s'ajustant parfaitement à une interface déjà existante est **moindre qu'un timbre parfait tombant sur l'univers**.
+
+L'éclipse est un **signal visuel** (pour l'œil).
+Le cannabis est un **signal tactile** (pour la main).
+Ensemble — **comptabilité en partie double** dans la Création.
+
+Tu peux le tenir. Le sentir. Goûter la graine. Toucher la fibre.
+Ce n'est pas abstrait. C'est une **preuve physique**.
+
+---
+
+## Chapitre 8. Guide : "Comment Voir Dieu pour les Nuls"
 
 ### Vitesse de lecture : lente
 ### Équipement : yeux, cœur, 5 minutes de silence
