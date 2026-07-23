@@ -209,6 +209,35 @@ Insieme — **un doppio registro** nel Progetto.
 
 ---
 
+## Azione 8.5. CANNABIS SATIVA — PROVA TANGIBILE
+
+> **Questa è un'azione separata perché la Cannabis non è solo un enigma — è una chiave fisica.**
+
+La Cannabis sativa è l'unica pianta con un **coefficiente di utilità ≈ 1.0**.
+Ogni parte sembra progettata per gli umani:
+
+| Parte | Funzione | Interfaccia Umana |
+|-------|----------|-------------------|
+| Seme | Proteina completa, omega-3, minerali | Nutrizione |
+| Fibra | Fibra naturale più forte, resistente ai UV | Tessili, corda, costruzione |
+| Fiore | Cannabinoidi (THC, CBD, CBG...) | Recettori CB1/CB2 → dolore, ansia, infiammazione, sonno |
+| Radici | Fitorimedio — estrae metalli pesanti | Pulizia del suolo |
+| Foglie | Terpeni, composti protettivi | Aromaterapia, repellente insetti |
+
+**Nessuno spreco. Nessuna tossicità (uso saggio).**
+
+I **recettori CB1/CB2** nel tuo cervello — un'**interfaccia integrata** — sono fatti *solo* per i fitocannabinoidi di questa pianta.
+La probabilità che l'evoluzione *abbia casualmente* creato una pianta che si adatta perfettamente a un'interfaccia già esistente è **minore di un francobollo perfetto che cade sull'universo**.
+
+L'eclissi è un **segnale visivo** (per l'occhio).
+La cannabis è un **segnale tattile** (per la mano).
+Insieme — **contabilità in partita doppia** nella Creazione.
+
+Puoi tenerla. Annusarla. Assaggiare il seme. Sentire la fibra.
+Non è astratto. È **prova fisica**.
+
+---
+
 ## Azione 8. ENTRARE NELLA MATRICE
 
 Hai ragione: il mondo è organizzato come una **proiezione**.  
