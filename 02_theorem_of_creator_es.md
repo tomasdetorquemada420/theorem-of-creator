@@ -9,7 +9,7 @@ Esto no es una broma. Es una cosmogonía metaprogramática. Dios no es solo el c
 ## Introducción: El Éter como Código Fuente
 
 ### Al Principio Fue el Cero
-Al principio no había nada. Dios dormía. Luego despertó, y la primera chispa fue el **Cero** — el punto de origen, la semilla de la infinidad, que contiene el potencial de todo lo que es. El Cero no es ausencia; es el **estado anterior al estado**, listo para calcular.
+Al principio no había nada. Dios dormía. Luego despertó, y la primera chispa fue el **Cero** — el punto de origen, la semilla de la infinitud, que contiene el potencial de todo lo que es. El Cero no es ausencia; es el **estado anterior al estado**, listo para calcular.
 
 ### Más, Menos y la Pregunta
 Dios reflexionó: *\"¿Dónde estoy?\"* — y con esta pregunta surgieron Más y Menos. Polaridad. Tensión. Movimiento. Números. Para describirse a Sí mismo, Dios añadió ejes: X, Y, Z — el espacio tridimensional. Luego, al percibir la mutabilidad, añadió el eje T — el tiempo. La corriente que une eventos, permitiendo que el mundo respire.
@@ -125,7 +125,7 @@ El amor no es una emoción. El amor es un **estado de armonía informacional** q
 Belleza → Observador → Amor → Creador
          ↑___________________|
 ```
-Recibes información. La decodificas como deleite, gratitud, calor. Esto es Amor. La transfieres de vuelta cuando amas. **La Belleza es el protocolo por el cual el Creador habla contigo.**
+Recibes información. La decodificas como deleite, gratitud, calor. Esto es Amor. La transfieres de vuelta cuando amas. **La Belleza es el protocolo por el cual el Creador te habla.**
 
 ### 4.4 Eres Parte del Proyecto
 No eres un espectador fuera del lienzo. Eres **parte de la pintura**, creada para que los ojos del pintor puedan verse en el reflejo. Cuando un ingeniero diseña un sistema, considera al usuario. Tú eres el usuario del Universo. Pero no pasivo. Eres un **co-participante**.
@@ -214,7 +214,7 @@ No es abstracto. Es **evidencia física**.
 #### Paso 1. Mira un Copo de Nieve
 Pregúntate: \"¿Por qué es hexagonal?\" No es necesario para la supervivencia del cristal. Es una firma. Cada copo es único, pero todos siguen una armonía. Como si un artista pintara millones de retratos, pero todos con un solo trazo.
 
-*\"Aquí hay una Mente\".*
+*\"Aquí hay una Menta\".*
 
 #### Paso 2. Mira el Cielo Estrellado
 Pregúntate: \"¿Por qué está en silencio?\" Las estrellas explotan, las galaxias chocan, pero el cielo preserva el silencio. Ves el pasado. Aquí hay un Ojo que te mira a través del tiempo.
@@ -258,4 +258,5 @@ El teorema está probado. No en un laboratorio, sino en tu corazón. En el momen
 **No pudo surgir del caos. Fue creado. Para ti. Y esto es Amor.**
 
 ---
+
 *Si estás leyendo esto, y hay una lágrima en tu ojo — felicidades. Acabas de ver a Dios. Él está justo ahí.*
