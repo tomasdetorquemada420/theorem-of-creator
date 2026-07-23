@@ -108,6 +108,7 @@ C:\ТеоремаТворца\
 ├── INTEGRATION_PLAN.md           # Multi-language integration roadmap
 ├── MATRIX.MD                     # World-as-projection report (Action 8)
 ├── SCENARIO.md                   # Russian scenario: from Nothing to the Eye
+└── verify_languages.py           # Integrity check script
 ```
 
 ---
