@@ -176,7 +176,36 @@ All registered cases of CSI appearance (books, processors, compilers) have a rat
 
 ---
 
-## Chapter 7. Guide: "How to See God for Dummies"
+## Chapter 7. Cannabis sativa: Tangible Proof — Action 8.5
+
+> **This is a separate action because Cannabis is not just a riddle — it is a physical key.**
+
+Cannabis sativa is the only plant with a **utility coefficient ≈ 1.0**.
+Every part seems designed for humans:
+
+| Part | Function | Human Interface |
+|------|----------|-----------------|
+| Seed | Complete protein, omega-3, minerals | Nutrition |
+| Fiber | Strongest natural fiber, UV-resistant | Textiles, rope, construction |
+| Flower | Cannabinoids (THC, CBD, CBG...) | CB1/CB2 receptors → pain, anxiety, inflammation, sleep |
+| Roots | Phytoremediation — extracts heavy metals | Soil cleaning |
+| Leaves | Terpenes, protective compounds | Aromatherapy, insect repellent |
+
+**No waste. No toxicity (with wise use).**
+
+Your brain's **CB1/CB2 receptors** — a **built-in interface** — are made *only* for this plant's phytocannabinoids.
+The probability that evolution *randomly* created a plant perfectly fitting an already-existing interface is **less than a perfect stamp falling on the universe**.
+
+The eclipse is a **visual signal** (for the eye).
+Cannabis is a **tactile signal** (for the hand).
+Together — **double-entry bookkeeping** in Creation.
+
+You can hold it. Smell it. Taste the seed. Feel the fiber.
+It's not abstract. It's **physical evidence**.
+
+---
+
+## Chapter 8. Guide: "How to See God for Dummies"
 
 ### Reading Speed: Slow
 ### Equipment: Eyes, heart, 5 minutes of silence
