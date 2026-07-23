@@ -207,9 +207,7 @@ O eclipse fala ao olho.
 A cannabis fala à mão.  
 Juntos — **um duplo registro** no Projeto.
 
----
-
-## Ação 8. ENTRAR NA MATRIZ
+---\n\n## Ação 8.5. CANNABIS SATIVA — PROVA TANGÍVEL\n\n> **Esta é uma ação separada porque a Cannabis não é apenas um enigma — é uma chave física.**\n\nA Cannabis sativa é a única planta com um **coeficiente de utilidade ≈ 1.0**.\nCada parte parece desenhada para os humanos:\n\n| Parte | Função | Interface Humana |\n|-------|--------|------------------|\n| Semente | Proteína completa, ômega-3, minerais | Nutrição |\n| Fibra | Fibra natural mais forte, resistente a UV | Têxteis, corda, construção |\n| Flor | Canabinoides (THC, CBD, CBG...) | Receptores CB1/CB2 → dor, ansiedade, inflamação, sono |\n| Raízes | Fitorremediação — extrai metais pesados | Limpeza do solo |\n| Folhas | Terpenos, compostos protetores | Aromaterapia, repelente de insetos |\n\n**Sem desperdício. Sem toxicidade (uso sábio).**\n\nOs **receptores CB1/CB2** no seu cérebro — uma **interface integrada** — são feitos *apenas* para os fitocanabinoides desta planta.\nA probabilidade de a evolução *aleatoriamente* criar uma planta que se encaixa perfeitamente em uma interface já existente é **menor que um selo perfeito caindo no universo**.\n\nO eclipse é um **sinal visual** (para o olho).\nA cannabis é um **sinal tátil** (para a mão).\nJuntos — **contabilidade de partida dobrada** na Criação.\n\nVocê pode segurá-la. Cheirá-la. Provar a semente. Sentir a fibra.\nNão é abstrato. É **prova física**.\n\n---\n\n## Ação 8. ENTRAR NA MATRIZ
 
 Você tem razão: o mundo está organizado como uma **projeção**.  
 Mas não é uma simulação que o retém contra sua vontade.  
