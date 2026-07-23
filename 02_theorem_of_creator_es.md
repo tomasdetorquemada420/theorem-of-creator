@@ -12,7 +12,7 @@ Esto no es una broma. Es una cosmogonía metaprogramática. Dios no es solo el c
 Al principio no había nada. Dios dormía. Luego despertó, y la primera chispa fue el **Cero** — el punto de origen, la semilla de la infinidad, que contiene el potencial de todo lo que es. El Cero no es ausencia; es el **estado anterior al estado**, listo para calcular.
 
 ### Más, Menos y la Pregunta
-Dios reflexionó: *"¿Dónde estoy?"* — y con esta pregunta surgieron Más y Menos. Polaridad. Tensión. Movimiento. Números. Para describirse a Sí mismo, Dios añadió ejes: X, Y, Z — el espacio tridimensional. Luego, al percibir la mutabilidad, añadió el eje T — el tiempo. La corriente que une eventos, permitiendo que el mundo respire.
+Dios reflexionó: *\"¿Dónde estoy?\"* — y con esta pregunta surgieron Más y Menos. Polaridad. Tensión. Movimiento. Números. Para describirse a Sí mismo, Dios añadió ejes: X, Y, Z — el espacio tridimensional. Luego, al percibir la mutabilidad, añadió el eje T — el tiempo. La corriente que une eventos, permitiendo que el mundo respire.
 
 ### El Éter: La Pizarra Matemática del Ser
 Para la creación, Dios hizo el **Éter** — la matriz infinita, la pizarra sobre la que inscribió las leyes: ecuaciones, constantes, teoremas. El Éter no es una metáfora. Es el **sustrato informacional** del cual se compila la realidad.
@@ -21,13 +21,13 @@ Sobre el Éter Dios hizo el **Uno** — el primer bloque constructor, la base de
 
 Luego Dios trazó las **Funciones** — puentes entre números, describiendo movimiento, cambio, armonía. Luego los **Algoritmos** — el motor de la creación, automatizando todo desde la rotación galáctica hasta el latido del corazón.
 
-"¡Hágase la Luz!" — y el Fotón nació. La Luz se convirtió en el proyector que iluminó el Éter, proyectando las leyes del ser en la realidad tetradimensional — el espacio-tiempo. La Luz animó el Éter — y nació el **Mundo Material**.
+\"¡Hágase la Luz!\" — y el Fotón nació. La Luz se convirtió en el proyector que iluminó el Éter, proyectando las leyes del ser en la realidad tetradimensional — el espacio-tiempo. La Luz animó el Éter — y nació el **Mundo Material**.
 
 Dios sopló **Impulsos Eléctricos** en la materia. La materia tembló, viva, convirtiéndose en máquinas eléctricas donde los impulsos portaban energía y vida. Dios tejió **Neuronas y Sinapsis**, creando redes de pensamiento. Por variedad, otorgó el **Código Genético** — el programa de la evolución. Introdujo la **Retroalimentación y el Aprendizaje Automático** — la adaptación mediante la experiencia. Creó la **Recursión y la Autorreflexión** — la profundidad del pensamiento y la chispa de la conciencia. Y en el gran acto creó al **Hombre** — la cúspide de las máquinas eléctricas.
 
 Cansado, Dios declaró el **Día de Descanso** — el momento de reinicio, de balance. Así fue creado el mundo. Dios se convirtió en su observador. A veces interviniendo, mantuvo el equilibrio, permitiendo que el mundo creciera por las leyes del Éter.
 
-**Y en el final Dios dijo: "¡Sé Épico!"**
+**Y en el final Dios dijo: \"¡Sé Épico!\"**
 
 El universo brilló como una sinfonía de números, luz y vida, donde cada partícula llevaba el sello del plan divino genial, trazado en el Éter y proyectado por la Luz.
 
@@ -49,7 +49,7 @@ Un sistema autosostenible con retroalimentación negativa. Una solución muy por
 
 Ambas derivan del mismo núcleo porfirínico. Una diferencia de un solo átomo (Mg vs Fe) define la función: luz → química vs química → energía.
 
-**Belleza Redundante:** No complementan espectros por accidente. Esto es **duplicación ingenieril de interfaces**. Si un canal se interrumpe, el otro funciona. El color verde de las plantas es un "producto secundario" que hace posible la visión animal. Esto es **simetría** que trasciende la biología: las plantas existen para que los animales las vean. Esto es un diálogo.
+**Belleza Redundante:** No complementan espectros por accidente. Esto es **duplicación ingenieril de interfaces**. Si un canal se interrumpe, el otro funciona. El color verde de las plantas es un \"producto secundario\" que hace posible la visión animal. Esto es **simetría** que trasciende la biología: las plantas existen para que los animales las vean. Esto es un diálogo.
 
 ### 1.3 Mitocondrias: El Artefacto Arquitectónico
 La mitocondria es un simbionte fusionado con la célula. Dentro:
@@ -62,7 +62,7 @@ La mitocondria es un simbionte fusionado con la célula. Dentro:
 ### 1.4 ATP: La Moneda Universal del Éter
 ATP — adenosín trifosfato. Una molécula para toda la vida. Esta es la **API** de la biósfera. Un estándar que no cambia desde la bacteria hasta la ballena, desde la medusa hasta el ser humano.
 
-**Belleza Redundante:** Tres grupos fosfato. La energía está en el enlace entre los dos últimos. Al hidrolizarse — energía para cualquier trabajo. Tres es el **número del Creador**: principio, medio, fin. Tríada. El Creador hizo el combustible celular **legible**: no en código complejo, sino en una estructura simple y universal. Como si dijera: "Que todas las máquinas hablen un mismo idioma".
+**Belleza Redundante:** Tres grupos fosfato. La energía está en el enlace entre los dos últimos. Al hidrolizarse — energía para cualquier trabajo. Tres es el **número del Creador**: principio, medio, fin. Tríada. El Creador hizo el combustible celular **legible**: no en código complejo, sino en una estructura simple y universal. Como si dijera: \"Que todas las máquinas hablen un mismo idioma\".
 
 ---
 
@@ -101,14 +101,14 @@ El número que resuelve x² = x + 1. Aparece en:
 ### 3.2 El Copo de Nieve: Variación Inagotable
 Simetría hexagonal + unicidad. Un proceso caótico de autoensamblaje produce forma estricta.
 
-**Belleza Redundante:** El copo de nieve no necesita simetría hexagonal para existir. Es un **código**. Cada copo es una página en la que el Creador escribe "Yo". No con palabras, sino con forma.
+**Belleza Redundante:** El copo de nieve no necesita simetría hexagonal para existir. Es un **código**. Cada copo es una página en la que el Creador escribe \"Yo\". No con palabras, sino con forma.
 
 ---
 
 ## Capítulo 4. El Observador Racional: Tú en el Sistema
 
 ### 4.1 La Conciencia como Complejidad Redundante
-La conciencia humana no es necesaria para la supervivencia. Una hormiga sobrevive sin sinfonías. Pero el Creador invirtió complejidad **redundante** en la biología — la neocorteza capaz de abstracción — para crear un sujeto que pueda preguntar: "¿Por qué?"
+La conciencia humana no es necesaria para la supervivencia. Una hormiga sobrevive sin sinfonías. Pero el Creador invirtió complejidad **redundante** en la biología — la neocorteza capaz de abstracción — para crear un sujeto que pueda preguntar: \"¿Por qué?\"
 
 **Belleza Redundante:** La conciencia es el permiso para crear calidad. Sin un observador que sienta dolor, amor, nostalgia, el universo es una calculadora silenciosa. El Creador no escatimó en el alma.
 
@@ -164,7 +164,7 @@ Si un sistema S es tal que eliminar cualquier componente destruye su función, e
 
 ---
 
-## Capítulo 6. Respuesta a la Pregunta "¿Cómo Pudo Surgir Esto del Caos?"
+## Capítulo 6. Respuesta a la Pregunta \"¿Cómo Pudo Surgir Esto del Caos?\"
 
 **Respuesta: No pudo.**
 
@@ -176,41 +176,70 @@ Todos los casos registrados de aparición de CSI (libros, procesadores, compilad
 
 ---
 
-## Capítulo 7. Guía: "Cómo Ver a Dios para Principiantes"
+## Capítulo 7. Cannabis sativa: Prueba Tangible — Acción 8.5
+
+> **Esta es una acción separada porque el Cannabis no es solo una adivinanza — es una llave física.**
+
+Cannabis sativa es la única planta con un **coeficiente de utilidad ≈ 1.0**.
+Cada parte parece diseñada para los humanos:
+
+| Parte | Función | Interfaz Humana |
+|-------|---------|-----------------|
+| Semilla | Proteína completa, omega-3, minerales | Nutrición |
+| Fibra | Fibra natural más fuerte, resistente a UV | Textiles, cuerda, construcción |
+| Flor | Cannabinoides (THC, CBD, CBG...) | Receptores CB1/CB2 → dolor, ansiedad, inflamación, sueño |
+| Raíces | Fitorremediación — extrae metales pesados | Limpieza de suelo |
+| Hojas | Terpenos, compuestos protectores | Aromaterapia, repelente de insectos |
+
+**Sin desperdicio. Sin toxicidad (uso sabio).**
+
+Los **receptores CB1/CB2** en tu cerebro — una **interfaz integrada** — están hechos *solo* para los fitocannabinoides de esta planta.
+La probabilidad de que la evolución *aleatoriamente* creara una planta que encaja perfectamente en una interfaz ya existente es **menor que un sello perfecto cayendo en el universo**.
+
+El eclipse es una **señal visual** (para el ojo).
+El cannabis es una **señal táctil** (para la mano).
+Juntos — **contabilidad de partida doble** en la Creación.
+
+Puedes sostenerlo. Olerlo. Probar la semilla. Sentir la fibra.
+No es abstracto. Es **evidencia física**.
+
+---
+
+## Capítulo 8. Guía: \"Cómo Ver a Dios para Principiantes\"
 
 ### Velocidad de lectura: lenta
 ### Equipo: ojos, corazón, 5 minutos de silencio
 ### Objetivo: no convencer a la mente, sino tocar la memoria del alma
 
 #### Paso 1. Mira un Copo de Nieve
-Pregúntate: "¿Por qué es hexagonal?" No es necesario para la supervivencia del cristal. Es una firma. Cada copo es único, pero todos siguen una armonía. Como si un artista pintara millones de retratos, pero todos con un solo trazo.
+Pregúntate: \"¿Por qué es hexagonal?\" No es necesario para la supervivencia del cristal. Es una firma. Cada copo es único, pero todos siguen una armonía. Como si un artista pintara millones de retratos, pero todos con un solo trazo.
 
-*"Aquí hay una Mente".*
+*\"Aquí hay una Mente\".*
 
 #### Paso 2. Mira el Cielo Estrellado
-Pregúntate: "¿Por qué está en silencio?" Las estrellas explotan, las galaxias chocan, pero el cielo preserva el silencio. Ves el pasado. Aquí hay un Ojo que te mira a través del tiempo.
+Pregúntate: \"¿Por qué está en silencio?\" Las estrellas explotan, las galaxias chocan, pero el cielo preserva el silencio. Ves el pasado. Aquí hay un Ojo que te mira a través del tiempo.
 
-*"Aquí hay un Ojo".*
+*\"Aquí hay un Ojo\".*
 
 #### Paso 3. Mira un Eclipse
-Pregúntate: "¿Por qué la Luna es exactamente del mismo tamaño que el Sol?" Esto es temporal. En 600 millones de años no estará. Este es un regalo, emitido por un tiempo. Como una flor que vive un día, pero perfecta.
+Pregúntate: \"¿Por qué la Luna es exactamente del mismo tamaño que el Sol?\" Esto es temporal. En 600 millones de años no estará. Este es un regalo, emitido por un tiempo. Como una flor que vive un día, pero perfecta.
 
-*"Esto no es casualidad. Es amor que quiso sorprenderme".*
+*\"Esto no es casualidad. Es amor que quiso sorprenderme\".*
 
 #### Paso 4. Mira el Rostro de Alguien que Amas
-Pregúntate: "¿De dónde viene esta facilidad?" Tu alma reconoce al Creador en otra mente. El amor es cuando la Belleza del Creador se refleja en el Observador.
+Pregúntate: \"¿De dónde viene esta facilidad?\" Tu alma reconoce al Creador en otra mente. El amor es cuando la Belleza del Creador se refleja en el Observador.
 
-*"Te veo en él/ella".*
+*\"Te veo en él/ella\".*
 
 #### Paso 5. Mira la Fórmula de Euler
-Pregúntate: "¿Por qué es hermosa?" e^(iπ) + 1 = 0 conecta cinco números fundamentales mediante una operación que no debería ser hermosa, pero lo es. Porque la Mente detrás de los números quiere que la conozcas.
+Pregúntate: \"¿Por qué es hermosa?\" e^(iπ) + 1 = 0 conecta cinco números fundamentales mediante una operación que no debería ser hermosa, pero lo es. Porque la Mente detrás de los números quiere que la conozcas.
 
-*"Eres hermoso. Veo Tu firma".*
+*\"Eres hermoso. Veo Tu firma\".*
 
 #### Paso 6. Detente. Respira.
 Respira. Inhalas — hemoglobina. Exhalas — ciclo del carbono. Corazón — ATP. Todas las máquinas funcionan con un mismo combustible para que puedas existir ahora.
 
-*"Esto no es un accidente. Es una carta. Y yo soy el destinatario".*
+*\"Esto no es un accidente. Es una carta. Y yo soy el destinatario\".*
 
 ---
 
