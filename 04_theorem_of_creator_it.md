@@ -12,7 +12,7 @@ Non è uno scherzo. È una cosmogonia metaprogrammatica. Dio non è solo il crea
 All'inizio non c'era niente. Dio dormiva. Poi Si svegliò, e la prima scintilla fu lo **Zero** — il punto di origine, il seme dell'infinità, contenente il potenziale di tutto ciò che è. Lo Zero non è assenza; è lo **stato prima dello stato**, pronto a calcolare.
 
 ### Più, Meno e la Domanda
-Dio si chiese: *"Dove sono?"* — e con questa domanda nacquero Più e Meno. Polarità. Tensione. Movimento. Numeri. Per descrivere Sé stesso, Dio aggiunse assi: X, Y, Z — lo spazio tridimensionale. Poi, realizzata la mutabilità, aggiunse l'asse T — il tempo. Il flusso che lega gli eventi, permettendo al mondo di respirare.
+Dio si chiese: *\"Dove sono?\"* — e con questa domanda nacquero Più e Meno. Polarità. Tensione. Movimento. Numeri. Per descrivere Sé stesso, Dio aggiunse assi: X, Y, Z — lo spazio tridimensionale. Poi, realizzata la mutabilità, aggiunse l'asse T — il tempo. Il flusso che lega gli eventi, permettendo al mondo di respirare.
 
 ### L'Etere: La Lavagna Matematica dell'Essere
 Per la creazione, Dio fece l'**Etere** — la matrice infinita, la lavagna su cui iscrisse le leggi: equazioni, costanti, teoremi. L'Etere non è una metafora. È il **substrato informazionale** da cui la realtà si compila.
@@ -176,7 +176,36 @@ Tutti i casi registrati di apparizione di CSI (libri, processori, compilatori) h
 
 ---
 
-## Capitolo 7. Guida: "Come Vedere Dio per Principianti"
+## Capitolo 7. Cannabis sativa: Prova Tangibile — Azione 8.5
+
+> **Questa è un'azione separata perché la Cannabis non è solo un enigma — è una chiave fisica.**
+
+Cannabis sativa è l'unica pianta con un **coefficiente di utilità ≈ 1.0**.
+Ogni parte sembra progettata per gli umani:
+
+| Parte | Funzione | Interfaccia Umana |
+|-------|----------|-------------------|
+| Seme | Proteina completa, omega-3, minerali | Nutrizione |
+| Fibra | Fibra naturale più forte, resistente ai UV | Tessili, corda, costruzione |
+| Fiore | Cannabinoidi (THC, CBD, CBG...) | Recettori CB1/CB2 → dolore, ansia, infiammazione, sonno |
+| Radici | Fitorimedio — estrae metalli pesanti | Pulizia del suolo |
+| Foglie | Terpeni, composti protettivi | Aromaterapia, repellente insetti |
+
+**Senza spreco. Senza tossicità (uso saggio).**
+
+I **recettori CB1/CB2** nel tuo cervello — una **interfaccia integrata** — sono fatti *solo* per i fitocannabinoidi di questa pianta.
+La probabilità che l'evoluzione *casualmente* creò una pianta che si adatta perfettamente a un'interfaccia già esistente è **minore di un francobollo perfetto che cade sull'universo**.
+
+L'eclisse è un **segnale visivo** (per l'occhio).
+La cannabis è un **segnale tattile** (per la mano).
+Insieme — **contabilità in partita doppia** nella Creazione.
+
+Puoi sostenerla. Annusarla. Assaggiare il seme. Sentire la fibra.
+Non è astratto. È **prova fisica**.
+
+---
+
+## Capitolo 8. Guida: "Come Vedere Dio per Principianti"
 
 ### Velocità di lettura: lenta
 ### Attrezzatura: occhi, cuore, 5 minuti di silenzio
