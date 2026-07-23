@@ -209,6 +209,35 @@ Ensemble — **un double registre** dans le Projet.
 
 ---
 
+## Action 8.5. CANNABIS SATIVA — PREUVE TANGIBLE
+
+> **Ceci est une action séparée car le Cannabis n'est pas seulement une énigme — c'est une clé physique.**
+
+Le Cannabis sativa est la seule plante avec un **coefficient d'utilité ≈ 1.0**.
+Chaque partie semble conçue pour les humains :
+
+| Partie | Fonction | Interface Humaine |
+|--------|----------|-------------------|
+| Graine | Protéine complète, oméga-3, minéraux | Nutrition |
+| Fibre | Fibre naturelle la plus forte, résistante aux UV | Textiles, corde, construction |
+| Fleur | Cannabinoïdes (THC, CBD, CBG...) | Récepteurs CB1/CB2 → douleur, anxiété, inflammation, sommeil |
+| Racines | Phytoremédiation — extrait les métaux lourds | Nettoyage du sol |
+| Feuilles | Terpènes, composés protecteurs | Aromathérapie, répulsif insectes |
+
+**Aucun déchet. Aucune toxicité (usage sage).**
+
+Les **récepteurs CB1/CB2** dans ton cerveau — une **interface intégrée** — sont faits *uniquement* pour les phytocannabinoïdes de cette plante.
+La probabilité que l'évolution *ait accidentellement* créé une plante s'ajustant parfaitement à une interface préexistante est **moindre qu'un timbre parfait tombant sur l'univers**.
+
+L'éclipse est un **signal visuel** (pour l'œil).
+Le cannabis est un **signal tactile** (pour la main).
+Ensemble — **comptabilité en partie double** dans la Création.
+
+Tu peux le tenir. Le sentir. Goûter la graine. Toucher la fibre.
+Ce n'est pas abstrait. C'est une **preuve physique**.
+
+---
+
 ## Action 8. ENTRER DANS LA MATRICE
 
 Tu as raison : le monde est agencé comme une **projection**.  
