@@ -1,31 +1,31 @@
-# História Principal: Como Deus Construiu o Mundo e Você se Tornou Seu Propósito
+# Teorema do Criador: Código, Beleza, Amor
 
 > *"No princípio não havia nada, porque Deus estava dormindo..."*
 
-Isto não é uma piada. Este é o **Metaprograma do Universo**. Deus não é apenas o criador da matéria. Ele é o Arquiteto do Éter: uma matriz infinita onde as leis são gravadas. Do Seu despertar nasceu o zero. Da pergunta "Onde estou?" — a polaridade. Da consciência — o tempo. Da Luz — o mundo material.
+Isto não é piada. Este é o **Metaprograma do Universo**. Deus não é apenas o criador da matéria. Ele é o Arquiteto do Éter: uma matriz infinita onde as leis são gravadas. De Seu despertar nasceu o zero. Da pergunta "Onde estou?" — a polaridade. Da consciência — o tempo. Da Luz — o mundo material.
 
 ---
 
-## Introdução: O Éter como Código-Fonte
+## Introdução: O Éter como Código Fonte
 
 ### No Princípio Era o Zero
-Primeiro, nada existia. Deus dormia. Então Ele acordou, e a primeira faísca — **o zero** — um ponto de referência, uma semente do infinito contendo o potencial de tudo que é. O zero não é "nada". É o **estado antes do estado**, prontidão para a computação.
+Primeiro, nada existia. Deus dormia. Então Ele acordou, e a primeira faísca — **zero** — um ponto de referência, uma semente do infinito contendo o potencial de tudo que é. Zero não é "nada". É o **estado antes do estado**, prontidão para computação.
 
 ### Mais, Menos, e a Pergunta
-Deus ponderou: *"Onde estou?"* — e nasceram o mais e o menos. Polaridade. Voltagem. Movimento. Números. Para Se descrever, Deus adicionou eixos: X, Y, Z — o espaço tridimensional. Então, percebendo a mutabilidade, adicionou o eixo T — o tempo. Uma corrente que conecta eventos, permitindo que o mundo respire.
+Deus ponderou: *"Onde estou?"* — e nasceram o mais e o menos. Polaridade. Voltagem. Movimento. Números. Para Se descrever, Deus adicionou eixos: X, Y, Z — espaço tridimensional. Então, percebendo a mutabilidade, adicionou o eixo T — tempo. Uma corrente conectando eventos, permitindo que o mundo respire.
 
 ### O Éter: A Tela Matemática da Existência
-Para a criação, Deus criou o **Éter** — uma matriz infinita onde Ele grava as leis: equações, constantes, teoremas. O Éter não é metáfora. É a **substância de informação** a partir da qual a realidade é compilada.
+Para a criação, Deus criou o **Éter** — uma matriz infinita onde Ele grava leis: equações, constantes, teoremas. O Éter não é metáfora. É a **substância de informação** a partir da qual a realidade é compilada.
 
 No Éter, Deus criou a **Unidade** — o primeiro tijolo, a base da contagem, a partir da qual estruturas infinitas podem ser construídas. Do zero, unidade, mais, menos nasceram os números: inteiros, racionais, irracionais, complexos. Inteiros — como estruturas. Irracionais — como natureza. Complexos — como música e mistério.
 
-Então Deus desenhou **funções** — pontes entre números, descrevendo movimento, mudança, harmonia. Então **algoritmos** — motores de criação, automatizando tudo: da rotação das galáxias aos batimentos cardíacos.
+Então Deus desenhou **funções** — pontes entre números, descrevendo movimento, mudança, harmonia. Então **algoritmos** — motores de criação, automatizando tudo: da rotação de galáxias aos batimentos cardíacos.
 
-"Haja Luz!" — e fótons nasceram. A Luz tornou-se o **projetor**, iluminando o Éter em realidade quadridimensional — o espaço-tempo. A Luz animou o Éter — o **mundo material** nasceu.
+"Haja Luz!" — e fótons nasceram. A Luz tornou-se o **projetor**, iluminando o Éter em realidade quadridimensional — espaço-tempo. A Luz animou o Éter — o **mundo material** nasceu.
 
-Deus soprou **impulsos elétricos** na matéria. A matéria tremeu, ganhou vida, tornou-se eletromáquinas onde impulsos carregam energia e vida. Deus teceu **neurônios e sinapses**, criando uma rede pensante. Para a diversidade deu o **código genético** — o programa da evolução. Introduziu **feedback e machine learning** — adaptação através da experiência. Criou **recursão e auto-reflexão** — profundidade do pensamento e faísca da consciência. No ápice da criação, Deus fez o **Humano** — o ápice da eletromáquina.
+Deus soprou **impulsos elétricos** na matéria. A matéria tremeu, ganhou vida, tornou-se eletromáquinas onde impulsos carregam energia e vida. Deus teceu **neurônios e sinapses**, criando uma rede pensante. Para diversidade deu o **código genético** — o programa da evolução. Introduziu **feedback e machine learning** — adaptação através da experiência. Criou **recursão e auto-reflexão** — profundidade do pensamento e faísca da consciência. No ápice da criação, Deus fez o **Humano** — o ápice da eletromáquina.
 
-Tendo descansado, Deus declarou um **Dia de Descanso** — momento de reinicialização, equilíbrio. O mundo foi criado. Deus tornou-se seu Observador. Ocasionalmente intervindo, Ele mantém o equilíbrio, permitindo que o mundo cresça pelas leis do Éter.
+Tendo descansado, Deus declarou um **Dia de Descanso** — momento de reinicialização, equilíbrio. O mundo foi criado. Deus tornou-se seu Observador. Ocasionalmente intervindo, mantém o equilíbrio, permitindo que o mundo cresça pelas leis do Éter.
 
 **No final Deus disse: "Haja uma Épica!"**
 
@@ -37,7 +37,7 @@ O Universo brilhou com uma sinfonia de números, luz, vida — cada quântico ca
 
 ### 1.1 Ciclo do Carbono como Sistema Distribuído
 O ciclo do carbono não é apenas geoquímica. É:
-- **Consenso distribuído** (plantas e bactérias coordenam globalmente a absorção de CO₂)
+- **Consenso distribuído** (plantas e bactérias coordenam globalmente absorção de CO₂)
 - **Balanceamento de carga** (oceanos acumulam excesso)
 - **Tolerância a falhas** (carbonatos geológicos cobrem milhões de anos)
 
@@ -52,7 +52,7 @@ Ambas derivam de um núcleo de porfirina. A diferença de um átomo (Mg vs Fe) d
 **Isto não é convergência. Isto é um protocolo compartilhado.** O Desenvolvedor usa uma biblioteca para dois clientes.
 
 ### 1.3 ATP — Moeda Energética Universal
-Um padrão molecular para toda a vida: de bactéria a baleia. Como se todos os computadores do mundo de repente entendessem um código de máquina.
+Um padrão molecular para toda vida: de bactéria a baleia. Como se todos os computadores do mundo de repente entendessem um código de máquina.
 
 ### 1.4 Mitocôndrias — O Arquivo da Conquista
 Cada célula tem um organelo com seu próprio DNA. Não sincronizado com núcleo. Não é bug. **Arquivo**. O Criador deixou lá a história da conquista bacteriana primordial, como uma assinatura numa pintura.
@@ -180,7 +180,7 @@ Você lembra os pedais.
 Estes não são coincidências.
 Estes são os **rastros do Criador**, deixados em todo lugar.
 Eles dizem:
-> *"Estou aqui. Não pude não criar, porque Minha essência é compartilhar. E você é aquele com quem compartilho."*
+> *"Eu estou aqui. Eu não pude não criar, porque Minha essência é compartilhar. E você é aquele com quem Eu compartilho."*
 
 Se seu coração apertou — você acabou de aceitar a entrega de Deus.
 Veio em embalagem bonita.
